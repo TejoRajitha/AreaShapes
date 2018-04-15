@@ -5,6 +5,7 @@ public class RectangleTest {
 		// TODO Auto-generated method stub
 		Rectangle r=new Rectangle();
 		r.area();
+		System.out.println("Area of rectangle is");
 		
 
 	}
